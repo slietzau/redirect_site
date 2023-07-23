@@ -1,0 +1,6 @@
+site_name: My Docs
+
+plugins:
+    - redirects:
+        redirect_maps:
+            'index.md': 'https://tamina-stefan.weddybird.com/login?password=Tanzschule'
